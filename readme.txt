@@ -1,5 +1,5 @@
 
-<h1>Running the app</h1>
+Running the app
 yarn
 react-native eject
 react-native link react-native-dialogflow
@@ -11,7 +11,7 @@ nodemon server.js
 
 
 
-<h2>APIs</h2>
+APIs
 export const dialogflowConfig = {
   "type": "service_account",
   "project_id": "XXX-XXXX-XXXX",
